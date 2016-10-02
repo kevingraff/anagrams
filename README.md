@@ -1,9 +1,17 @@
 # anagrams
 Anagrams code test
 
+Usage:
+solution.py <dictionary>
+Dictionary is specified as an argument
+
 Assumptions:
   Using dictionary provided in xUbuntu 15
   Using python3
+  Spaces are ignored
+  Apostrophes are ignored
+  All letters are treated as lowercase
+  Dictionary is in the format of one word per line
 
 Original problem:
 An anagram is a word formed by rearranging the letters of another, like "topside" and "deposit". In some cases, there might be as many (or more) anagrams than there are characters, like "post", "spot", "stop" and "tops".
